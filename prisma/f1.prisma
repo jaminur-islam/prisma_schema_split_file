@@ -1,0 +1,4 @@
+model Products1 {
+  id    String @id @default(uuid())
+  title String
+}
